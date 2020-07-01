@@ -1,5 +1,5 @@
 ## Inspiration
-The challenge to work on real-world problems and generating insights out of the data has inspired us to utilize our technical expertise for the development of the community.
+The challenge to work on real-world problems and generating insights out of the data has inspired us to utilize our technical expertise for the developing the community.
 ## What it does
 It tries to gain insights on which is the busiest intersections connecting the two cities (Windsor and Detroit), further we classified the various type of vehicles and their effects on the ongoing traffic.
 ## How we built it
